@@ -6,6 +6,7 @@ int main()
     printf("this is the second line\n");
     printf("hello bobo\n");
     int a;
+    printf("add one line\n");
     return 0;
 }
 
