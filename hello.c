@@ -7,8 +7,8 @@ int main()
     printf("hello bobo\n");
     int a;
     printf("add one line\n");
-    int b;
-    int c;
+    int d;
+    adasdad;
     return 0;
 }
 
