@@ -9,6 +9,7 @@ int main()
     printf("add one line\n");
     int d;
     adasdad;
+    printf("asda\n");
     return 0;
 }
 
