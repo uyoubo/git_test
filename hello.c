@@ -8,6 +8,7 @@ int main()
     int a;
     printf("add one line\n");
     printf("asda\n");
+    asdasda;
     return 0;
 }
 
